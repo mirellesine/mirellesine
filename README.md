@@ -3,7 +3,7 @@
 I'm an Apple engineer passionate about design.<br>
 Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
 
-![mirellesine's Stats](https://github-readme-stats.vercel.app/api?username=mirellesine&theme=graywhite&show_icons=true&hide_border=true&count_private=true)
+![mirellesine's Stats](https://github-readme-stats.vercel.app/api?username=mirellesine&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
 ## Find me at:
 <p align="left">
