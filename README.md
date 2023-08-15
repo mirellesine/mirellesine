@@ -12,11 +12,11 @@ Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;
-    <a href="linkedin.com/in/mirelle-sine">
+    <a href="https://www.linkedin.com/in/mirelle-sine">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     &nbsp;
-    <a href="discordapp.com/users/mirellesine">
+    <a href="https://www.discordapp.com/users/mirellesine">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
     
