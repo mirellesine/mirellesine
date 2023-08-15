@@ -27,6 +27,10 @@ Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
     <a href="https://apps.apple.com/br/developer/mirelle-alves-sine/id1699882351">
         <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
     </a>
+    &nbsp;
+    <a href="https://www.behance.net/mirellealves1">
+        <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
+    </a>
     
     
 </p>
