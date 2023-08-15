@@ -11,7 +11,7 @@ Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     &nbsp;
-    <a target = "_blank" href="https://www.linkedin.com/in/mirelle-sine">
+    <a href="https://www.linkedin.com/in/mirelle-sine"  target = "_blank" >
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     &nbsp;
