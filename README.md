@@ -19,7 +19,10 @@ Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
     <a href="https://www.discordapp.com/users/mirellesine">
         <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-    
+    &nbsp;
+    <a href="https://www.discordapp.com/users/mirellesine">
+        <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
+    </a>
     
 </p>
 <div style="display: inline_block"><br>
