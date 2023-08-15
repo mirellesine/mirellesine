@@ -23,6 +23,11 @@ Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
     <a href="https://mirellesine.itch.io">
         <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
     </a>
+    &nbsp;
+    <a href="https://apps.apple.com/br/developer/mirelle-alves-sine/id1699882351">
+        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
+    </a>
+    
     
 </p>
 <div style="display: inline_block"><br>
