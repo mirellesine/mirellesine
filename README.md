@@ -1,8 +1,6 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24px> Hi there! I'm Mirelle!</h3>
 
 I'm an Apple engineer passionate about design.<br>
-Studying Computer Science at the Catholic University of Brasilia (UCB).<br>
-
 ![mirellesine's Stats](https://github-readme-stats.vercel.app/api?username=mirellesine&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Find me at:
