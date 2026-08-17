@@ -1,6 +1,10 @@
 <h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24px> Hi there! I'm Mirelle!</h3>
 
-I'm an Apple engineer passionate about design.<br>
+Hi, I'm Mirelle! 👋
+I'm an iOS Software Engineer with 4+ years of experience building mobile applications with Swift, SwiftUI, and UIKit.
+I currently work on production applications at scale, with experience in software architecture, design systems, Server-Driven UI, automated testing, and CI/CD.
+I'm also an Apple Swift Student Challenge 2024 Winner and Apple Developer Academy alumna.
+
 ![mirellesine's Stats](https://github-readme-stats.vercel.app/api?username=mirellesine&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Find me at:
