@@ -47,6 +47,8 @@ I'm also an **Apple Swift Student Challenge Winner 2024** and **Apple Developer 
 
 Awarded for *Hidden Stories*, an interactive iOS experience highlighting the stories and contributions of women in science and technology.
 
+🎥 [Watch Hidden Stories on YouTube](https://www.youtube.com/watch?v=zXRyhzUmHLI)
+
 ### 📱 Apps
 
 I've published multiple applications to the App Store, including projects developed during my time at the Apple Developer Academy.
