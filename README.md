@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mirelle-sine">LinkedIn</a> ·
-  <a href="https://apps.apple.com/br/developer/mirelle-alves-sine/id1699882351">App Store</a>
 </p>
 
 ---
