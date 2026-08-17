@@ -1,42 +1,59 @@
-<h2 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 24px> Hi there! I'm Mirelle!</h3>
+<h1 align="center">Hi, I'm Mirelle! 👋</h1>
 
-Hi, I'm Mirelle! 👋
-I'm an iOS Software Engineer with 4+ years of experience building mobile applications with Swift, SwiftUI, and UIKit.
-I currently work on production applications at scale, with experience in software architecture, design systems, Server-Driven UI, automated testing, and CI/CD.
-I'm also an Apple Swift Student Challenge 2024 Winner and Apple Developer Academy alumna.
-
-![mirellesine's Stats](https://github-readme-stats.vercel.app/api?username=mirellesine&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
-## Find me at:
-<p align="left">
-    <a href="mailto:mirellesine@gmail.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://www.linkedin.com/in/mirelle-sine"  target = "_blank" >
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://www.discordapp.com/users/mirellesine">
-        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://mirellesine.itch.io">
-        <img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://apps.apple.com/br/developer/mirelle-alves-sine/id1699882351">
-        <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white">
-    </a>
-    &nbsp;
-    <a href="https://www.behance.net/mirellealves1">
-        <img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white">
-    </a>
-    
-    
+<p align="center">
+  <strong>iOS Software Engineer</strong> · Swift · SwiftUI · UIKit
 </p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/swift/swift-original.svg">
-    <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/git/git-plain.svg">  
-</div>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mirelle-sine">LinkedIn</a> ·
+  <a href="https://apps.apple.com/br/developer/mirelle-alves-sine/id1699882351">App Store</a>
+</p>
+
+---
+
+### 👩‍💻 About Me
+
+I'm an iOS Software Engineer with 4+ years of experience building and shipping production mobile applications with Swift, SwiftUI, and UIKit.
+
+I currently work on production applications at scale, with experience in:
+
+- Scalable software architecture
+- SwiftUI and UIKit
+- Server-Driven UI
+- Design Systems
+- REST APIs
+- Automated testing
+- CI/CD
+- Code quality and maintainability
+
+I'm also an **Apple Swift Student Challenge Winner 2024** and **Apple Developer Academy alumna**, with 6 apps published on the App Store.
+
+### 🛠️ Technologies
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" height="40" alt="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+</p>
+
+**iOS:** Swift · SwiftUI · UIKit · Combine · Swift Concurrency · Core Data · CloudKit · ARKit · RealityKit · Core ML · HealthKit
+
+**Architecture:** MVVM · VIP · Clean Architecture · SOLID · Design Systems · Server-Driven UI
+
+**Testing & Tools:** XCTest · XCUITest · Git · CI/CD · SwiftLint · Firebase
+
+### 🏆 Recognition
+
+**Apple Swift Student Challenge Winner — 2024**
+
+Awarded for *Hidden Stories*, an interactive iOS experience highlighting the stories and contributions of women in science and technology.
+
+### 📱 Apps
+
+I've published multiple applications to the App Store, including projects developed during my time at the Apple Developer Academy.
+
+👉 [View my apps on the App Store](https://apps.apple.com/br/developer/mirelle-alves-sine/id1699882351)
+
+### 📫 Contact
+
+- **LinkedIn:** [linkedin.com/in/mirelle-sine](https://www.linkedin.com/in/mirelle-sine)
+- **Email:** [mirellesine@gmail.com](mailto:mirellesine@gmail.com)
